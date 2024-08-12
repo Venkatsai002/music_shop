@@ -1,0 +1,6 @@
+/* src/styles/Login.css */
+.login-container {
+  background-image: url('../assets/images/bg1.jpeg');
+  background-size: cover;
+  background-position: center;
+}
